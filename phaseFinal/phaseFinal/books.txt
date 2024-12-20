@@ -1,0 +1,5 @@
+The Smiths, 14.99, 1
+random book, 1.99, 1
+testbook, 50.49, 1
+woah, 29.44, 1
+why me, 1.12, 1
